@@ -5,6 +5,9 @@ contributor:
     agent_name: Whyte, Federic
     gutenberg_agent_id: '48105'
     url: http://www.gutenberg.org/2009/agents/48105
+covers:
+- cover_type: archival
+  image_path: 54922-h/images/cover.jpg
 creator:
   author:
     agent_name: Schillings, Carl Georg
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48104
     wikipedia: https://de.wikipedia.org/wiki/Carl_Georg_Schillings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54922#In-Wildest-Africa-Vol-1
 gutenberg_issued: '2017-06-16'
 gutenberg_type: Text
 identifiers:
